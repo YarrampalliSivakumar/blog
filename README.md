@@ -1,5 +1,5 @@
 # blog
-# azure link 
+# azure link https://kind-water-07075dc00.2.azurestaticapps.net/
 # project demo url 
 # demo url https://www.youtube.com/watch?v=Ujv2uyIYeZw
 # github repository 
